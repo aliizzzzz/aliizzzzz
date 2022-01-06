@@ -1,4 +1,6 @@
-<meta name="description" content="This is an example of a meta description. This will often show up in search results.">
+<meta name="description" content="Personal Github account">
+<meta name="keywords" content="Python, Machine Learning, Deep Learning, Alireza Meghdadi">
+<link rel="author" href="https://www.linkedin.com/in/alirezameghdadi/"/>
 
 # Alireza Meghdadi (PhD)
 
