@@ -8,7 +8,7 @@ Bioengineering consultant
 
 Data Scientist
 
-Programming Enthusiast, Eager to learn machine learning!
+Programming Enthusiast, Eager to learn AI!
 
 Contact me at alireza.meghdadi@gmail.com
 
